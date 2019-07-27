@@ -13,9 +13,4 @@ end
 
 display_board
 
-
-def method 
-  here is the body of the method 
-end 
-
-method 
+od 

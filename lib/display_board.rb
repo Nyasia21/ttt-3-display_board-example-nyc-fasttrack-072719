@@ -12,5 +12,3 @@ end
 
 
 display_board
-
-od 
